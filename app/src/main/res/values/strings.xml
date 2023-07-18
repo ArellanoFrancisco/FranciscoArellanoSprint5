@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ShoesTap</string>
+    <string name="topbar">Our Products</string>
+    <string name="product">products name</string>
+    <string name="price">price</string>
+    <string name="totalprice">%.2f</string>
+    <string name="add">Add to Cart </string>
+    <string name="out">Check Out</string>
+    <string name="color">Color  :</string>
+    <string name="talla">Talla  :</string>
+    <string name="talla1">36</string>
+    <string name="talla2">38</string>
+    <string name="talla3">40</string>
+    <string name="talla4">41</string>
+    <string name="talla5">42</string>
+    <string name="Cantidad">  1  </string>
+    <string name="Cantidad2">Cantidad  : </string>
+    <string name="compra">Compra realizada exitosamente</string>
+</resources>
